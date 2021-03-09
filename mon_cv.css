@@ -1,0 +1,96 @@
+body{
+	background-color: #273746;
+}
+.page{
+width: 780px; 
+margin: auto;
+font-family: 'source sans pro', Calibri, Tahoma, sans-serif;
+font-size: : 16px; 
+border: 2px solid #3388CC;
+border-radius: 10px;
+box-shadow: 2px 4px 3px BLACK;
+padding: 5px;
+background-color: #F5EEF8 ;
+font-weight: bold;
+color: #17202A;
+}
+.infophoto{
+	height: 250px;
+
+}
+.info{
+	float: left;
+	font-style: italic;
+	color: #0C5544;
+}
+.photo{
+	float: right;
+}
+.section{
+	margin-bottom: 	70px;
+	text-align: justify-all;
+}
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: comic;
+	font-style: italic;
+	color: #0C5544;
+}
+.sec-droite{
+	margin-left: 200px;
+	margin-top: 48px
+}
+h2{
+	font-size: 28px;
+	color: #338888;
+	border-bottom: 3px solid #3388DD;
+	text-align: center;
+	font-style: italic;
+	font-family: TIMES NEW ROMAN
+
+
+}
+.titre{
+	font-weight: bold;
+	font-weight: 20px;
+	font-style: italic;
+	font-family: cursive;
+	color: #03513F;
+
+
+}
+#forma-gauche{
+	margin-bottom: 35px;
+}
+#exp-gauche{
+	margin-bottom: 50px;
+}
+#info{
+	margin-top: 5px;
+}
+#comp{
+	margin-bottom: 45px;
+}
+#hobbies{
+	margin-bottom: 25px;
+}
+#stage{
+	margin-left: 300px
+
+}
+#langue{
+	line-height: 23px;
+}
+#date{
+	margin-bottom: 35px;
+}
+#date2{
+	margin-bottom: 20px;
+}
+.section:hover{
+	color: #641E16;
+	font-weight: bold; 
+
+}
